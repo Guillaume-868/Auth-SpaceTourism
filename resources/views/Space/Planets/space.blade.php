@@ -3,7 +3,7 @@
 </x-header>
 
 <x-layout>
-
+tititit
 <div class="flex flex-col md:flex-col lg:flex-row items-center justify-center text-center md:text-left gap-10 md:gap-20 px-6 md:px-20 mt-10 md:mt-20">
     <!-- Partie Texte -->
     <div class="flex-1">
